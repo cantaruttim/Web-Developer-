@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- we are adding an image -- favicon -->
+    <link rel="shortcut icon" type="imagem/jpeg" href="fotos/logo.jpeg">
+    <title> Sabonete de Amor</title>
+    <link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+
+
+<body>
+    <div class="menu">
+        <header>
+            <h1>Sabonete de Amor</h1>
+            <p class="established">Since 2021</p>
+        </header>
+
+        <nav>
+            <h2>Galeria de Fotos</h2>
+            <a href="https://www.instagram.com/sabonetedeamor/">Página do instagram</a>
+        </nav>
+
+        <!-- parte de exposição das fotos -->
+        <section>
+
+
+        </section>
+
+</body>
+
+<footer>
+
+
+</footer>
+
+</html>
